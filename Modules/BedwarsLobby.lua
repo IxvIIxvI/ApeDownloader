@@ -32,7 +32,7 @@ local jointhekkk = Windows["Lobby"].API.CreateToggle({
     ["Default"] = false,
     ["Function"] = function(callback)
         if callback then
-            GuiLibrary["Destruct"]:Fire()
+            nigga["Destruct"]:Fire()
             _G.AutoInject = false
         end
     end
